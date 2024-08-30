@@ -1,9 +1,3 @@
-/task1/cmake-build-debug/
-/task2/cmake-build-debug/
-/task3/cmake-build-debug/
-/task4/cmake-build-debug/
-/task5/cmake-build-debug/
-/task6/cmake-build-debug/
-/task4/SFML/
-/task5/SFML/
-/task6/SFML/
+/*/cmake-build-debug/
+/*/SFML/
+/*/.idea/
